@@ -8,7 +8,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
  - I'm a passionate full-stack developer who loves solving problems and mastering new technologies. 
  - I’m currently learning **Full stack Software Engineering & Web Development**. 
  - Ask me about **HTML, CSS, Bootstrap**. 
- - I reads books and write blogs on free time [here](https://64ef647a8b4b1500681f7c3e--keen-licorice-218978.netlify.app/ --> 
+ - I reads books and write blogs on free time [here](https://64ef647a8b4b1500681f7c3e--keen-licorice-218978.netlify.app/) --> 
   
  <h3 align="left">Let's Connect:</h3> 
   
