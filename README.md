@@ -5,7 +5,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
 
 </picture> 
   
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bazileros&label=Profile%20visits&color=FF00FF&style=flat-square" alt="bazileros" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kissmart&label=Profile%20visits&color=FF00FF&style=flat-square" alt="bazileros" /> </p>
   
  <h2> About Me </h2> 
   
