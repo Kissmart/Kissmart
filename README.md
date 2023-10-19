@@ -85,7 +85,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
   
  [![Kissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kissmart&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
- [![@Kissmart Holopin board](https://holopin.me/Kissmart)](https://holopin.io/@Kissmart) 
+ [![@Kissmart Holopin board](https://holopin.me/Kissmart)](https://holopin.io/Kissmart) 
   
  <!-- [![Kissmart's GitHub | Languages Over Time](https://stats.quine.sh/Kissmart/languages-over-time?theme=dark)](https://quine.sh) --> 
   
