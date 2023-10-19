@@ -80,13 +80,13 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/> 
  </p> 
   
- <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) --> 
+ <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kissmart&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) --> 
   
   
- [![Kissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandanck22&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+ [![Kissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kissmart&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
- [![@Kissmart's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22) 
+ [![@Kissmart's Holopin board](https://holopin.me/Kissmart)](https://holopin.io/@Kissmart) 
   
- <!-- [![Kissmart's GitHub | Languages Over Time](https://stats.quine.sh/chandanck22/languages-over-time?theme=dark)](https://quine.sh) --> 
+ <!-- [![Kissmart's GitHub | Languages Over Time](https://stats.quine.sh/Kissmart/languages-over-time?theme=dark)](https://quine.sh) --> 
   
  
