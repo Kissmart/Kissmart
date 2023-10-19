@@ -8,7 +8,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
  - I'm a passionate full-stack developer who loves solving problems and mastering new technologies. 
  - I’m currently learning **Full stack Software Engineering & Web Development**. 
  - Ask me about **HTML, CSS, Bootstrap**. 
- - I reads books and write blogs on free time [here]https://64ef647a8b4b1500681f7c3e--keen-licorice-218978.netlify.app/ --> 
+ - I reads books and write blogs on free time [here](https://64ef647a8b4b1500681f7c3e--keen-licorice-218978.netlify.app/ --> 
   
  <h3 align="left">Let's Connect:</h3> 
   
@@ -60,33 +60,33 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
  <p align="center"> 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
   
- <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirkissmart&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
+ <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
  <p> 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=sirkissmart&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> --> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> --> 
   
  <table cellpadding="0"> 
    <tr style="padding: 0"> 
      <!-- GitHub Stats Card -->   
-     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sirkissmart&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
+     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
      <!-- GitHub Top Language Card --> 
-     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkissmart&layout=compact&theme=radical&custom_title=Languages"/></td> 
+     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanck22&layout=compact&theme=radical&custom_title=Languages"/></td> 
    </tr> 
  </table> 
   
  <p align="center"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=sirkissmart&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=chandanck22&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
   
  <p align="center"> 
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/> 
  </p> 
   
- <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sirkissmart&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) --> 
+ <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) --> 
   
   
- [![Sirkissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandanck22&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+ [![Kissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandanck22&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
- [![@Sirkissmart's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22) 
+ [![@Kissmart's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22) 
   
- <!-- [![Sirkissmart's GitHub | Languages Over Time](https://stats.quine.sh/chandanck22/languages-over-time?theme=dark)](https://quine.sh) --> 
+ <!-- [![Kissmart's GitHub | Languages Over Time](https://stats.quine.sh/chandanck22/languages-over-time?theme=dark)](https://quine.sh) --> 
   
  
